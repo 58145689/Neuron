@@ -1,11 +1,11 @@
 # Neuron
 Neuron
-    Soma
+        Soma
       
-    Neurite
+        Neurite
       
-      Dendrite
+            Dendrite
         
-      Axon
+            Axon
         
 Cell
